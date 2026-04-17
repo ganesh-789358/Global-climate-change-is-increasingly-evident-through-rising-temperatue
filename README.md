@@ -14,9 +14,9 @@ The above graph presents a time-series comparison of two important environmental
 
 
 
+🔥 Correlation Heatmap: CO₂ Emissions vs Temperature Change
 
-
-
+The heatmap visualizes the correlation between global CO₂ emissions and temperature change using a color-coded matrix.
 
 
 
