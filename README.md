@@ -25,3 +25,14 @@ The heatmap visualizes the correlation between global CO₂ emissions and temper
 This scatter plot illustrates the relationship between global CO₂ emissions and temperature change (°C), with each point representing a specific year.
 ![](https://github.com/ganesh-789358/Global-climate-change-is-increasingly-evident-through-rising-temperatue/blob/main/Screenshot%202026-04-17%20163434.png)
 
+Conclusion
+
+This project analyzes the relationship between global CO₂ emissions and temperature change using multiple visualizations, including time-series plots, correlation heatmaps, and scatter plots.
+
+The results consistently show that:
+
+CO₂ emissions have increased steadily over time, mainly due to industrialization and human activities.
+Global temperatures have also risen, as seen in the increasing temperature anomaly.
+A strong positive correlation (~0.96) exists between emissions and temperature change, indicating a close relationship.
+The scatter plot further confirms a clear upward trend, showing that higher emissions are associated with higher temperatures.
+
