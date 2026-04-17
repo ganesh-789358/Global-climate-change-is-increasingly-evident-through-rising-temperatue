@@ -5,14 +5,20 @@ This project analyzes the relationship between global carbon emissions and tempe
 ![](https://github.com/ganesh-789358/Global-climate-change-is-increasingly-evident-through-rising-temperatue/blob/main/Screenshot%202026-04-17%20163356.png)
 
 
+Time-Series Analysis of CO₂ Emissions and Temperature Change
 
-
-
-
-
-
-
-
+The above graph presents a time-series comparison of two important environmental indicators: global CO₂ emissions and temperature change (°C) over the years.
 
 
 ![](https://github.com/ganesh-789358/Global-climate-change-is-increasingly-evident-through-rising-temperatue/blob/main/Screenshot%202026-04-17%20163410.png)
+
+
+
+
+
+
+
+
+
+
+
